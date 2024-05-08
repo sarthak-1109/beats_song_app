@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'BeatBase',
+        title: 'BeatBase App',
         theme: ThemeData(
             appBarTheme: const AppBarTheme(
                 backgroundColor: Colors.transparent, elevation: 0)),
