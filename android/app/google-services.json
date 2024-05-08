@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891428118066",
+    "project_id": "beats-8bec3",
+    "storage_bucket": "beats-8bec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891428118066:android:0e833aa1ef137ae0b9a62b",
+        "android_client_info": {
+          "package_name": "com.example.music_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjhjbbzmQALhs8WtbaPxxTlVKMthK-RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
